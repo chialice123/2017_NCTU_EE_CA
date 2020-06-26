@@ -1,6 +1,3 @@
-# 2017_NCTU_EE_CA
-computer architecture
-
------------------------------------------------------------
-
-GPU speed up CNN
+# Computer Architecture 2017
+## NCTU EE CA final projects
+speed up CNN using cuda to communicate with GPU and sync to avoid data being overwritten
